@@ -1,0 +1,8 @@
+include("curves.jl")
+include("correspondence.jl")
+include("certification.jl")
+include("pipeline.jl")
+include("visualization.jl")
+include("junction.jl")
+include("tangents.jl")
+include("mathematica_export.jl")
